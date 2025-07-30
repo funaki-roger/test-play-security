@@ -20,6 +20,11 @@ Instale as dependências do projeto:
 npm install
 ```
 
+Instale o Playwright:
+```bash
+npm install @playwright/test
+```
+
 Instale os browsers do Playwright:
 ```bash
 npx playwright install
